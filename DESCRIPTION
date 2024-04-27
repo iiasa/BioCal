@@ -1,0 +1,16 @@
+Package: BioCal
+Type: Package
+Title: Calculate Biomass Based on Forest Data
+Version: 0.1.0
+Author: Dr. Andre Nakhavali
+Maintainer: Dr. Andre Nakhavali <nakhavali@iiasa.ac.at>
+Description: This package provides tools for calculating the biomass of trees based
+    on country, species, compartment, diameter, and height. The calculations use
+    specific allometric equations tailored for different tree species across various
+    biogeographical zones. Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

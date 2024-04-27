@@ -1,0 +1,588 @@
+Abies balsamea
+1 – log(RT) kg cm – – – 68 8 – –
+2 – log(RT) kg cm – – – 68 8 89 0.92
+3 – log(RT) kg cm – – – 68 8 40 0.928
+4 – log(RT) kg cm – – – 68 8 40 0.898
+Abies spp. (Fir)
+5 UK CR t cm – – – 9 6 1 – –
+6 UK CR t cm – – – 9 6 2 – –
+Acer pseudoplatanus (Sycamore)
+7 UK ln(ABW) kg cm – 3.7–31 – 10 14 10 0.991
+8 UK ln(ABW) kg cm – 3.5–28 – 10 14 15 0.995
+Alnus glutinosa (Common alder, Black alder, Klibbal)
+9 Sweden AB kg mm – 1–17.3 2 .5–17.6 39 4 – 0.987
+10 Sweden AB kg mm – 12.2–28.3 13–25.4 38 4 – 0.98
+11 UK ABW kg cm – – – 32 14 12 0.985
+12 Sweden BR kg mm – 12.2–28.3 13–25.4 38 4 – 0.66
+13 Sweden BR kg mm – 1–17.3 2 .5–17.6 39 4 – 0.922
+14 UK BR kg cm – – – 32 14 12 0.924
+15 Sweden FL kg mm – 12.2–28.3 13–25.4 38 4 – 0.47
+16 Sweden FL kg mm – 1–17.3 2 .5–17.6 39 4 – 0.927
+17 Sweden ST kg mm – 12.2–28.3 13–25.4 38 4 – 0.82
+18 Sweden ST kg mm – 1–17.3 2 .5–17.6 39 4 – 0.969
+19 UK ST kg cm – – – 32 14 12 0.991
+Alnus incana (Grey alder, Gråal, Harmaaleppä)
+20 Sweden AB kg mm – 0.7–9.3 2 –14.8 39 4 – 0.983
+21 Sweden AB kg mm – 8.9–24.6 13–25.3 38 4 – 0.92
+22 Sweden BR kg mm – 0.7–9.3 2 –14.8 39 4 – 0.862
+23 Sweden BR kg mm – 8.9–24.6 13–25.3 38 4 – 0.6
+24 Sweden FL kg mm – 0.7–9.3 2 –14.8 39 4 – 0.64
+25 Sweden FL kg mm – 8.9–24.6 13–25.3 38 4 – 0.44
+26 Sweden ST kg mm – 0.7–9.3 2 –14.8 39 4 – 0.98
+27 Sweden ST kg mm – 8.9–24.6 13–25.3 38 4 – 0.89
+Arbutus unedo (Strawberry-tree)
+28 Italy AB kg cm – 6–15 – 7 8 2 6 0.955
+29 Italy ABW kg cm – 6–15 – 7 8 3 2 6 0.955
+30 Italy CR kg cm – 6–15 – 7 8 6 0.955
+Betula pendula (Silver birch, Pendula birch, White birch, Rauduskoivu, Vårtbjörk)
+31 Sweden AB kg mm – 1.8–13.7 3.2–19.9 35 4 – 0.985
+32 UK ABW kg cm – – – 32 14 13 0.99
+33 Sweden BR kg mm – 1.8–13.7 3.2–19.9 35 4 – 0.747
+34 UK BR kg cm – – – 32 14 13 0.99
+35 Sweden FL kg mm – 1.8–13.7 3.2–19.9 35 4 – 0.884
+36 – log(RT) kg cm – – – 68 8 3 0.983
+37 – log(RT) kg cm m – – 68 8 3 0.997
+38 Sweden ST kg mm – 1.8–13.7 3.2–19.9 35 4 – 0.979
+39 UK ST kg cm – – – 32 14 13 0.99
+Betula pubescens (White birch, Pubescent birch, Hieskoivu, Glasbjörk, Björk)
+40 Sweden AB kg mm – 0.8–8.5 2 .3–12 35 4 – 0.977
+41 Sweden BR kg mm – 0.8–8.5 2 .3–12 35 4 – 0.875
+42 Sweden FL kg mm – 0.8–8.5 2 .3–12 35 4 – 0.918
+43 Finland SB kg cm m 2 –16 4.6–16.7 58 8 53 0.986
+44 Finland SB kg cm m 1.3–13 3.3–13.2 58 8 56 0.984
+45 Sweden ST kg mm – 0.8–8.5 2 .3–12 35 4 – 0.966
+46 Finland SW kg cm m 2 –16 4.6–16.7 58 8 53 0.994
+47 Finland SW kg cm m 1.3–13 3.3–13.2 58 8 56 0.994
+Betula pubescens ssp. czerepanovii (Mountain birch)
+48 Finland ln(BR) g mm – – – 72 8 2 0 0.836
+49 Finland ln(DB) g mm – – – 72 8 2 0 0.622
+50 Finland ln(FL) g mm – – – 72 8 2 0 0.829
+51 Finland ln(ST) g mm – – – 72 8 2 0 0.98
+Betula spp. (Birch, Koivu, Björk)
+52 UK ln(ABW) kg cm – 2 .9–30 – 10 14 7 0.985
+53 UK ln(ABW) kg cm – 2 .9–26 – 10 14 15 0.984
+54 UK ln(ABW) kg cm – 3.3–16 – 10 14 16 0.984
+55 UK ln(ABW) kg cm – 3.5–23 – 10 14 15 0.987
+56 Finland BR kg cm m 9–28 13–22 .4 57 8 2 0 0.901
+57 Sweden ln(BR) g cm dm 0.9–9.8 1.8–9.2 19 8 66 0.88
+58 Sweden ln(BR) kg cm – 0–35 0– 50 8 4 2 35 0.924
+59 Finland ln(CR) kg mm – – – 2 29 8 – 0.839
+60 Finland ln(CR) kg mm – – – 2 29 8 – 0.838
+61 Finland DB kg cm m 9.0–28 13–22 .4 57 8 2 0 0.267
+62 Sweden ln(DB) kg cm – 0–35 0– 50 8 2 12 0.605
+63 Sweden ln(DB) kg cm m 0–35 0– 50 8 2 12 0.621
+64 Sweden ln(DB) g cm – 0.9–9.8 18–92 19 8 61 0.56
+65 Finland FL kg cm m 9–28 13–22 .4 57 8 2 0 0.906
+66 Sweden ln(FL) g cm dm 0.9–9.8 1.8–9.2 19 8 14 0.92
+67 Finland RT kg cm m 9–28 13–22 .4 57 8 5 2 0 0.994
+68 Finland SB kg cm m 9–28 13–22 .4 57 8 2 0 0.966
+69 Sweden ln(SB) kg cm – 0–35 0– 50 8 2 12 0.947
+70 Sweden ln(SB) kg cm m 0–35 0– 50 8 2 12 0.958
+71 Sweden ln(SB) g cm dm 0.9–9.8 1.8–9.2 19 8 66 0.91
+72 Sweden ln(ST) kg cm m 0–35 0– 50 8 2 40 0.992
+73 Finland SU kg cm m 9–28 13–22 .4 57 8 2 0 0.96
+74 Finland SW kg cm m 9–28 13–22 .4 57 8 2 0 0.99
+75 Sweden ln(SW) kg cm – 0–35 0– 50 8 2 40 0.982
+76 Sweden ln(SW) kg cm – 0–35 0– 50 8 2 12 0.97
+77 Sweden ln(SW) kg cm m 0–35 0– 50 8 2 12 0.99
+78 Sweden ln(SW) g cm dm 0.9–9.8 1.8–9.2 19 8 66 0.99
+Eucalyptus spp. (Eucalypt)
+79 Italy ln(AB) kg cm – 4–25 – 53 14 6 22 0.99
+Fagus crenata
+80 – log(RT) kg cm m – – 68 8 7 0.969
+Fagus moesiaca (Beech, Oxia)
+81 Greece ln(AB) kg cm – 5.4–41 9.2–28 76 14 16 0.99
+82 Greece ln(BR) kg cm – 5.4–41 9.2–28 76 14 16 0.97
+83 Greece ln(FL) kg cm – 5.4–41 9.2–28 76 14 16 0.9
+84 Greece ln(ST) kg cm – 5.4–41 9.2–28 76 14 16 0.98
+85 Greece ln(SU) kg cm – 5.4–41 9.2–28 76 14 7 16 0.78
+Fagus sylvatica (Beech, European beech, Hêtres, Rotbuche)
+86 Austria ln(AB) kg cm m – – 31 3 42 0.997
+87 Belgium log(AB) g cm – 35–78.8 – 2 23 12 6 0.995
+88 Czech AB kg cm – 5.7–62.1 9.2–33.9 15 2 2 0 0.974
+89 Germany AB kg cm – – – 65 4 – –
+90 Netherlands AB kg cm m – – 5 8 38 0.991
+91 Netherlands AB kg cm – – – 5 8 38 0.988
+92 Spain AB kg cm – 4–34.5 6.1–18.4 67 14 7 0.98
+93 Sweden log(AB) kg cm m 12–64 11–29 61 8 – –
+94 Italy ABW kg cm m – – 11 8 8 – 0.993
+95 Italy ABW kg cm m – – 11 8 9 – 0.988
+96 Italy ABW kg cm m – – 11 8 10 – 0.991
+97 Italy ABW kg cm m – – 11 8 – 0.995
+98 Belgium log(BR) g cm – 35–78.8 – 2 23 12 6 0.981
+99 Czech BR kg cm – 5.7–62.1 9.2–33.9 15 2 2 0 0.806
+156 Austria BR kg mm – 3.2–20.7 – 60 12 12 0.731
+154 Austria BR kg mm – 2 .5–17.9 – 60 1 12 0.95
+158 Czech BR kg cm m 1–11 2 –9 18 7 13 55 –
+159 Czech BR kg cm – 11–47 14–33 16 2 2 5 0.892
+160 Czech BR kg cm m 11–47 14–33 16 2 2 5 0.89
+161 Denmark ln(BR) kg cm m 14–26 14–18 34 7 16 2 0 0.83
+162 Europe ln(BR) kg cm – 1.8–67.6 2 .1–42.8 74 8 429 0.871
+163 Finland BR kg cm – – – 8 8 17 – –
+164 Finland BR kg cm m – – 8 8 17 – –
+165 Finland BR kg cm – – – 8 8 18 – –
+166 Finland BR kg cm m – – 8 8 18 – –
+167 Finland BR kg cm – – – 8 8 19 – –
+168 Finland BR kg cm m – – 8 8 19 – –
+169 Germany BR kg cm – 17–39 – 2 27 12 19 –
+170 Germany BR kg m m 0–50 5–30 54 8 32 0.961
+171 Germany BR kg m m 0–10 5–10 54 8 2 0 10 0.94
+172 Germany BR kg m m 2 0–30 18–21 54 8 0 7 0.79
+173 Germany BR kg m m 30–50 2 4–30 54 8 0 15 0.903
+174 Germany BR kg cm – 2 6–60 30.–36.27 69 10 7 0.959
+175 Germany BR kg cm – 2 7–55.8 .–29.80 69 10 7 0.972
+176 Germany BR kg cm – 2 3–52 32.–38.9 33 10 5 0.921
+177 Germany BR kg cm – 2 6–60 30–36.26 69 10 0 7 0.892
+178 Germany BR kg cm – 2 6–55.7 –29.79 69 10 0 7 0.976
+179 Germany BR kg cm – 2 3–52 32–38.8 33 10 5 0.886
+180 Iceland BR kg cm m 2 .7–27.9 .7–12 71 8 4 16 0.944
+181 Norway BR g cm – 5–15 – 6 7 35 0.978
+182 Norway BR g cm – 2 –5 – 6 7 35 –
+183 Sweden BR kg mm – 4.9–29.8 4.1–23.4 37 4 32 0.955
+184 Sweden ln(BR) g cm – 1.1–9.9 18–83 19 8 43 0.77
+185 Sweden log(BR) kg cm m 15–38 18–28 61 8 – –
+186 Iceland CR kg cm m .7–27.9 .7–12 71 8 16 0.959
+187 Sweden ln(CR) kg cm – 0.3–63.4 1.3–35.6 49 8 1501 0.933
+188 Finland CR kg cm – – – 8 8 – –
+189 Finland CR kg cm m – – 8 8 – –
+190 Finland CR kg mm – – – 2 29 8 1 – 0.881
+191 Finland CR kg mm dm – – 2 29 8 – 0.903
+192 Finland CR kg cm – – – 2 28 8 – 0.912
+193 Finland CR kg mm – – – 2 29 8 – 0.892
+194 Finland CR kg mm dm – – 2 29 8 1 – 0.893
+195 Germany CR kg cm – 6–60 – 69 1 7 0.964
+196 Germany CR kg cm – 4–55.5 – 69 1 7 0.972
+197 Germany CR kg cm – 10.–27.2 – 64 1 8 –
+198 Germany CR kg cm – 17–38 – 64 1 9 –
+199 Germany CR kg cm – 3–31 – 64 1 5 –
+200 Germany CR kg cm – 4–52 32.–38.6 0 10 5 0.881
+201 Sweden ln(CR) kg cm – 0–50 0– 50 8 544 0.945
+202 Sweden ln(CR) kg cm m 0–50 0– 50 8 544 0.949
+203 Belgium log(DB) g cm – 16.–32.3 – 2 24 12 6 0.97
+204 Czech DB kg cm – 11–47 14–33 15 2 2 6 0.431
+205 Czech DB kg cm m 11–47 14–33 15 2 2 6 0.41
+206 Denmark ln(DB) kg cm m 14–26 14–18 34 7 16 2 0 0.58
+207 Europe ln(DB) kg cm – 3.5–52.8 4.2–33.4 74 8 2 07 0.794
+208 Finland DB kg mm – – – 2 28 8 – 0.266
+209 Germany DB kg cm – 2 6–60 31–36 69 10 7 0.819
+210 Norway DB g cm – 5–15 – 6 7 35 0.798
+211 Norway DB g cm – 2 –5 – 6 7 35 –
+212 Sweden ln(DB) g cm dm 1.1–9.9 1.8–8.3 18 8 42 0.37
+213 Sweden ln(DB) kg cm – 0–50 0– 50 8 525 0.714
+214 Sweden ln(DB) kg cm m 0–50 0– 50 8 525 0.729
+215 Sweden ln(DB) kg cm – 0.3–63.4 1.3–35.6 49 8 525 0.714
+216 Austria FL kg mm – 3.2–20.7 – 60 12 12 0.898
+217 Austria FL kg mm – 2 .5–17.9 – 60 1 12 0.89
+218 Czech FL kg cm m 1–11 2 –9 18 7 13 55 –
+219 Czech FL kg cm – 11–47 14–33 16 2 2 5 0.941
+220 Czech FL kg cm m 11–47 14–33 16 2 2 5 0.93
+221 Denmark ln(FL) kg cm m 14–26 14–18 34 7 2 3 0 0.74
+222 Europe ln(FL) kg cm – 1.8–67.6 2 .1–42.8 74 8 551 0.847
+223 Finland FL kg cm – – – 8 8 2 4 – –
+224 Finland FL kg cm m – – 8 8 2 4 – –
+225 Finland ln(FL) kg mm – – – 2 29 8 – 0.715
+226 Finland FL kg cm m – – 46 8 – –
+227 Germany log(FL) kg cm – 18–62 – 70 12 2 8 0.911
+228 Germany FL kg cm – 10.–27.2 – 64 12 8 –
+229 Germany FL kg cm – 17–38 – 64 12 9 –
+230 Germany FL kg m m 0–10 5–10 54 8 10 0.961
+231 Germany FL kg m m 2 0–30 18–21 54 8 7 0.869
+232 Germany FL kg m m 30–50 2 4–30 54 8 15 0.906
+233 Germany FL kg cm – 14–27 2 0–24 45 8 8 0.95
+234 Germany FL kg cm – 2 6–60 30.–36.25 69 10 7 0.857
+235 Germany FL kg cm – 2 5–55.6 .–29.78 69 10 7 0.964
+236 Germany FL kg cm – 2 4–52 32.–38.7 33 10 5 0.854
+237 Norway FL g cm – 5–15 – 6 7 35 0.978
+238 Norway FL g cm – 2 –5 – 6 7 35 –
+239 Sweden ln(FL) kg cm – 0–50 0– 50 8 544 0.899
+240 Sweden ln(FL) kg cm m 0–50 0– 50 8 544 0.901
+241 Sweden ln(FL) kg cm – 0.3–63.4 1.3–35.6 49 8 544 0.899
+242 Sweden FL kg mm – 4.9–29.8 4.1–23.4 37 4 32 0.962
+243 Sweden ln(FL) g cm – 1.1–9.9 18–83 19 8 43 0.87
+244 Germany RC kg m m 0–50 5–30 54 8 2 5 0.872
+245 Sweden ln(RC) kg cm – 0–50 0– 50 8 2 5 81 0.941
+246 Germany RS kg m m 0–50 5–30 54 8 2 5 0.872
+247 Sweden ln(RS) kg cm – 0–50 0– 50 8 2 6 329 0.925
+248 Europe ln(RT) kg cm – – – 74 8 – 0.956
+249 Germany RT kg cm – 15–23 – 22 22 12 15 0.63
+250 Germany RT kg cm – 16–32.5 – 44 12 15 0.711
+251 Germany log(RT) kg cm – 5–25 – 2 21 8 15 0.79
+252 Germany RT kg cm 14–27 0–24 45 8 5 0.96
+253 Sweden log(RT) kg cm m 15–38 18–28 61 8 – –
+254 UK RT kg cm – – – 9 6 – –
+255 Czech SB kg cm – 11–47 14–33 16 2 18 0.927
+256 Czech SB kg cm m 11–47 14–33 16 2 18 0.935
+257 Denmark ln(SB) kg cm m 14–26 14–18 34 7 16 2 0 0.84
+258 Germany SB kg cm – 10.–27.2 – 64 12 8 –
+259 Germany SB kg cm – 2 6–60 30.–36.28 69 10 7 0.965
+260 Germany SB kg cm – 2 8–55.9 .–29.81 69 10 7 0.862
+261 Germany SB kg cm – 2 3–52 32.–38.10 33 10 5 0.904
+262 Norway SB g cm – 5–15 – 6 7 35 0.981
+263 Norway SB g cm – 2 –5 – 6 7 35 –
+264 Sweden ln(SB) kg cm – 0–50 0– 50 8 505 0.966
+265 Sweden ln(SB) kg cm m 0–50 0– 50 8 505 0.968
+266 Sweden ln(SB) kg cm – 0.3–63.4 1.3–35.6 49 8 505 0.966
+267 Sweden ln(SB) g cm dm 1.1–9.9 1.8–8.3 19 8 43 0.97
+268 Sweden log(SB) kg cm m 15–38 18–28 61 8 – –
+269 Sweden ln(SR) kg cm – 0–50 0– 50 8 316 0.97
+270 Belgium log(ST) g cm – 16.–32.3 – 2 24 12 6 0.986
+271 Czech ST kg cm m 1–11 2 –9 18 7 13 55 –
+272 Europe ln(ST) kg cm – 3.5–52.8 4.2–33.4 74 8 2 35 0.986
+273 Germany ST kg cm – 2 6–60 – 69 1 7 0.968
+274 Germany ST kg cm – 2 4–55.5 – 69 1 7 0.962
+275 Germany ST kg cm – 17–38 – 64 12 9 –
+276 Germany ST kg cm – 2 3–31 – 64 1 5 –
+277 Germany ST t cm – 17–39 2 1–31 6 7 19 0.989
+278 Germany ST kg cm – 2 4–52 32.–38.5 0 10 5 0.984
+279 Iceland ST kg cm m 2 .7–27.9 .7–12 71 8 16 0.989
+280 Sweden ln(ST) kg cm – 0–50 0– 50 8 546 0.988
+281 Sweden ln(ST) kg cm m 0–50 0– 50 8 546 0.994
+282 Sweden ln(ST) kg cm m 0.3–63.4 1.3–35.6 49 8 1503 0.994
+283 Sweden ln(ST) kg cm – 0.3–63.4 1.3–35.6 49 8 1503 0.986
+284 Sweden ln(ST) kg cm m 0.3–63.4 1.3–35.6 49 8 505 0.992
+285 Sweden ln(ST) kg cm – 0.3–63.4 1.3–35.6 49 8 505 0.982
+286 Sweden ln(SU) kg cm – 0–50 0– 50 8 328 0.958
+287 Czech SW kg cm – 11–47 14–33 16 2 18 0.969
+288 Czech SW kg cm – 11–47 14–33 16 2 18 0.976
+289 Denmark ln(SW) kg cm m 14–26 14–18 34 7 16 2 0 0.96
+290 Germany SW kg cm – 2 6–60 30.–36.29 69 10 7 0.956
+291 Germany SW kg cm – 2 9–55.1 .–29.82 69 10 7 0.963
+292 Germany SW kg cm – 2 3–51 32.–38.11 33 10 5 0.984
+293 Norway SW g cm – 5–15 – 6 7 35 0.985
+294 Norway SW g cm – 2 –5 – 6 7 35 –
+295 Sweden ln(SW) kg cm – 0–50 0– 50 8 505 0.982
+296 Sweden ln(SW) kg cm m 0–50 0– 50 8 505 0.992
+297 Sweden ln(SW) g cm dm 1.1–9.9 1.8–8.3 19 8 43 0.99
+298 Sweden log(SW) kg cm m 15–38 18–28 61 8 – –
+299 Germany TB kg cm – 2 6–60 30.–36.23 0 10 7 0.974
+300 Germany TB kg cm – 2 4–55.5 .–29.77 0 10 7 0.975
+301 Germany TB kg cm – 2 4–52 32.–38.4 0 10 5 0.981
+Picea engelmannii (Engelmann spruce)
+302 Iceland AB kg cm m 1.4–12.7 1.7–12.7 71 8 14 0.927
+303 Iceland ST kg cm m 1.4–12.7 1.7–12.7 71 8 14 0.967
+Picea rubens
+304 – log(RT) kg cm – – – 68 8 15 0.972
+Picea sitchenis (Sitka spruce)
+305 UK RT kg cm – – – 9 6 – –
+Picea spp.
+306 Iceland AB kg cm m 4.9–28.6 4.8–15.4 71 8 56 0.965
+307 Iceland CR kg cm m 4.9–28.6 4.8–15.4 71 8 56 0.905
+308 UK CR kg cm – – – 9 6 1 – –
+309 UK CR kg cm – – – 9 6 – –
+310 Iceland ST kg cm m 4.9–28.6 4.8–15.4 71 8 56 0.981
+Pinus banksiana
+311 – log(RT) kg cm – – – 68 8 40 0.917
+Pinus contorta (Lodgepole pine)
+312 Iceland AB kg cm m 4.2–26.3 2 .8–12.8 71 8 48 0.984
+313 UK CR kg cm – – – 9 6 – –
+314 – log(RT) kg cm m – – 68 8 72 0.949
+315 – log(RT) kg cm m – – 68 8 22 1 0.9
+316 UK RT kg cm – – – 9 6 – –
+317 Iceland ST kg cm m 4.2–26.3 2 .8–12.8 71 8 48 0.992
+Pinus nigra var maritima (Black pine, Corsican pine)
+318 UK CR kg cm – – – 9 6 – –
+319 UK RT kg cm – – – 9 6 – –
+Pinus pinaster (Maritime pine)
+320 Italy ln(AB) kg cm – 1.5–16 – 2 2 14 6 8 0.99
+Pinus radiata (Radiata pine)
+321 Italy ln(AB) kg cm – 4–20 – 53 14 6 17 0.99
+322 – log(RT) kg cm – – – 68 8 8 0.944
+323 – log(RT) kg cm m – – 68 8 8 0.943
+Pinus sylvestris (Scots pine, Mänty, Tall)
+324 Czech AB kg cm m 2 –6 –5 17 7 9 –
+325 Czech AB kg cm m 2 –16 4–11 17 7 50 –
+326 Czech AB kg cm – 2 –6 –5 17 8 – 0.91
+327 Czech AB kg cm – 2 –6 –5 17 8 – 0.91
+328 Czech AB kg cm – 2 –6 –5 17 8 – 0.94
+329 Czech AB kg cm m 2 –6 –5 17 8 – 0.47
+330 Czech AB kg cm m 2 –6 –5 17 8 – 0.45
+331 Czech AB kg cm m 2 –6 –5 17 8 – 0.45
+332 Czech AB kg cm – 2 –16 4–11 17 8 – 0.89
+333 Czech AB kg cm – 2 –16 4–11 17 8 – 0.67
+334 Czech AB kg cm – 2 –16 4–11 17 8 – 0.98
+335 Czech AB kg cm m 2 –16 4–11 17 8 – 0.52
+336 Czech AB kg cm m 2 –16 4–11 17 8 – 0.53
+337 Czech AB kg cm m 2 –16 4–11 17 8 – 0.82
+338 Finland AB kg cm – – – 8 8 – –
+339 Finland AB kg cm – – – 8 8 – –
+340 Finland ln(AB) kg cm – – – 55 8 2 8 18 0.99
+341 Finland ln(AB) kg cm – – – 55 8 2 9 30 0.97
+342 Norway AB g cm – 7–15 – 6 7 16 0.993
+343 Norway AB g cm – 2 –7 – 6 7 16 –
+344 Norway AB g cm – 7–20 – 6 7 30 16 0.993
+345 Norway AB g cm – 2 –7 – 6 7 30 16 –
+346 Poland ln(AB) kg cm – – – 62 8 65 0.764
+347 Poland ln(AB) kg cm – – – 62 8 110 0.89
+348 Poland ln(AB) kg cm – – – 62 8 30 0.938
+349 Poland ln(AB) kg cm – – – 62 8 15 0.975
+350 UK log(AB) g cm – – 48 8 10 0.996
+351 Poland ln(ABW) kg cm – – – 62 8 65 0.775
+352 Poland ln(ABW) kg cm – – – 62 8 110 0.894
+353 Poland ln(ABW) kg cm – – – 62 8 30 0.938
+354 Poland ln(ABW) kg cm – – – 62 8 15 0.978
+355 Belgium BR kg cm – – – 75 13 – –
+356 Czech BR kg cm m 2 –6 –5 17 7 9 –
+357 Czech BR kg cm m 2 –16 4–11 17 7 50 –
+358 Czech BR kg cm – 2 –6 –5 17 8 – 0.81
+359 Czech BR kg cm – 2 –6 –5 17 8 – 0.83
+360 Czech BR kg cm – 2 –6 –5 17 8 – 0.81
+361 Czech BR kg cm – 2 –16 4–11 17 8 – 0.77
+362 Czech BR kg cm – 2 –16 4–11 17 8 – 0.71
+363 Czech BR kg cm – 2 –16 4–11 17 8 – 0.89
+364 Czech BR kg cm m 2 –16 4–11 17 8 – 0.74
+365 Czech BR kg cm m 2 –16 4–11 17 8 – 0.67
+366 Finland BR kg cm – – – 8 8 17 – –
+367 Finland BR kg cm m – – 8 8 17 – –
+368 Finland BR kg cm – – – 8 8 18 – –
+369 Finland BR kg cm m – – 8 8 18 – –
+370 Finland BR kg cm – – – 8 8 19 – –
+371 Finland BR kg cm m – – 8 8 19 – –
+372 Finland ln(BR) kg cm – – – 55 8 2 8 18 0.9
+373 Finland ln(BR) kg cm – – – 55 8 2 9 30 0.93
+374 Norway BR g cm – 7–15 – 6 7 16 0.974
+375 Norway BR g cm – 2 –7 – 6 7 16 –
+376 Norway BR g cm – 15–20 – 6 7 30 16 0.971
+377 Norway BR g cm – 2 –15 – 6 7 30 16 –
+378 Sweden BR kg cm m 2 –40 – 1 8 73 0.49
+379 Sweden ln(BR) g cm dm 1.1–10 1.7–8.8 19 8 84 0.73
+380 UK log(BR) g cm – – – 48 8 10 0.964
+381 Norway C cO g cm – 7–15 – 6 7 16 0.688
+382 Norway C cO g cm – –7 – 6 7 16 –
+383 Norway C cO g cm – –13 – 6 7 30 16 –
+384 Finland CR kg cm – – – 8 8 – –
+385 Finland CR kg cm m – – 8 8 – –
+386 Finland ln(CR) kg mm – – – 2 29 8 22 – 0.905
+387 Finland ln(CR) kg mm m – – 2 29 8 22 – 0.925
+388 Finland CR kg cm – – – 2 28 8 – 0.91
+389 Finland ln(CR) kg mm – – – 2 29 8 2 1 – 0.878
+390 Finland ln(CR) kg mm m – – 2 29 8 2 1 – 0.908
+391 Sweden ln(CR) kg cm – 0–45 0– 50 8 482 0.901
+392 Sweden ln(CR) kg cm m 0–45 0– 50 8 482 0.922
+393 UK log(CR) g cm – – – 48 8 10 0.975
+394 UK CR kg cm – – – 9 6 – –
+395 Finland log(DB) kg cm m 2 .4–9.7 3–7.8 56 8 – 0.742
+396 Finland log(DB) kg cm m 7–21.6 7.9–14.8 56 8 – 0.655
+397 Finland log(DB) kg cm m 5.6–23.6 8–18.2 56 8 – 0.89
+398 Finland DB kg mm – – – 2 29 8 – 0.22 8
+399 Norway DB g cm – 2 –7 – 6 7 30 16 –
+400 Norway DB g cm – 7–20 – 6 7 30 16 0.925
+401 Norway DB g cm – 11–15 – 6 7 31 16 0.989
+402 Norway DB g cm – 2 –11 – 6 7 16 –
+403 Sweden ln(DB) kg cm – 0–45 0– 50 8 467 0.741
+404 Sweden ln(DB) kg cm m 0–45 0– 50 8 467 0.748
+405 Sweden ln(DB) g cm dm 1.1–10 1.7–8.8 19 8 80 0.58
+406 UK log(DB) g cm – – – 48 8 10 0.512
+407 Belgium FL kg cm – – – 75 13 – –
+408 Czech FL kg cm m 2 –6 –5 17 7 3 9 –
+409 Czech FL kg cm m 2 –16 4–11 17 7 50 –
+410 Czech FL kg cm – 2 –6 –5 17 8 – 0.67
+411 Czech FL kg cm – 2 –6 –5 17 8 – 0.68
+412 Czech FL kg cm – 2 –6 –5 17 8 – 0.72
+413 Czech FL kg cm – 2 –16 4–11 17 8 – 0.84
+414 Czech FL kg cm – 2 –16 4–11 17 8 – 0.8
+415 Czech FL kg cm – 2 –16 4–11 17 8 – 0.89
+416 Czech FL kg cm m 2 –16 4–11 17 8 – 0.43
+417 Czech FL kg cm m 2 –16 4–11 17 8 – 0.75
+418 Czech FL kg cm m 2 –16 4–11 17 8 – 0.72
+419 Finland FL kg cm – – – 8 8 2 4 – –
+420 Finland FL kg cm – – – 8 8 2 4 – –
+421 Finland ln(FL) kg cm – – – 55 8 2 8 18 0.78
+422 Finland ln(FL) kg cm – – – 55 8 2 9 30 0.9
+423 Finland ln(FL) kg mm – – 2 29 8 – 0.688
+424 Finland FL kg cm m – – 46 8 – –
+425 Norway FL g cm – 7–15 – 6 7 16 0.95
+426 Norway FL g cm – 2 –7 – 6 7 16 –
+427 Norway FL g cm – 7–20 – 6 7 30 16 0.946
+428 Norway FL g cm – 2 –7 – 6 7 30 16 –
+429 Poland ln(FL) kg cm – – – 62 8 64 0.355
+430 Poland ln(FL) kg cm – – – 62 8 108 0.546
+431 Poland ln(FL) kg cm – – – 62 8 2 9 0.752
+432 Poland FL kg cm cm 0.2–9.2 1.3–5.6 3 8 – 0.75
+433 Poland ln(FL) kg cm – – – 62 8 15 0.71
+434 Sweden ln(FL) kg cm – 0–45 0– 50 8 482 0.841
+435 Sweden ln(FL) kg cm m 0–45 0– 50 8 482 0.865
+436 Sweden FL kg cm m 2 –40 – 1 8 73 0.908
+437 Sweden ln(FL) g cm dm 1.1–10 1.7–8.8 19 8 84 0.75
+438 UK log(FL) g cm – – – 48 8 10 0.962
+439 Belgium FL(1) kg cm – – – 75 13 33 – –
+440 Belgium FL(2) kg cm – – – 75 13 34 – –
+441 Belgium RC kg cm – – – 75 13 – –
+442 Europe RC kg cm – 4.1–45 – 77 1 35 – 0.97
+443 Poland ln(RC) kg cm – – – 62 8 61 0.589
+444 Poland ln(RC) kg cm – – – 62 8 106 0.803
+445 Poland ln(RC) kg cm – – – 62 8 30 0.891
+446 Poland ln(RC) kg cm – – – 62 8 15 0.909
+447 Sweden ln(RC) kg cm – 0–45 0– 50 8 2 6 305 0.901
+448 Europe RF kg cm – 4.1–45 – 77 1 35 – 0.75
+449 Sweden ln(RS) kg cm – 0–45 0– 50 8 2 5 86 0.889
+450 – log(RT) kg cm – – – 68 8 – 0.965
+451 – log(RT) kg cm – – – 68 8 17 –
+452 – log(RT) kg cm m – – 68 8 6 0.966
+453 Europe RT kg cm – 4.1–45 – 77 1 35 – 0.964
+454 Finland log(RT) kg cm – 7.0–21.6 7.9–14.8 56 8 5 – 0.935
+455 Finland log(RT) kg cm – 4–24 – 2 21 8 2 0 0.99
+456 UK RT t cm – – – 9 6 – –
+457 Finland log(SB) kg cm m 5.6–23.6 8.0–18.2 56 8 – 0.968
+458 Finland log(SB) kg cm m 2 .4–9.7 3.0–7.8 56 8 – 0.964
+459 Finland log(SB) kg cm m 7.0–21.6 7.9–14.8 56 8 – 0.961
+460 Finland ln(SB) kg cm m 5.1–45 3.5–27.5 40 8 – 0.981
+461 Finland ln(SB) kg cm – – – 55 8 2 8 18 0.98
+462 Finland ln(SB) kg cm – – – 55 8 2 9 30 0.95
+463 Norway SB g cm – 7–15 – 6 7 16 0.999
+464 Norway SB g cm – 2 –7 – 6 7 16 –
+465 Norway SB g cm – 7–20 – 6 7 30 16 0.993
+466 Norway SB g cm – 2 –7 – 6 7 30 16 –
+467 Sweden ln(SB) kg cm – 0–45 0– 50 8 461 0.929
+468 Sweden ln(SB) kg cm m 0–45 0– 50 8 461 0.935
+469 Sweden SB kg cm m 2 –40 – 1 8 73 0.984
+470 Sweden ln(SB) g cm dm 1.1–10 1.7–8.8 19 8 84 0.96
+471 UK log(SB) g cm – – – 48 8 10 0.98
+472 Sweden SR kg cm m 2 –40 – 1 8 73 0.943
+473 Sweden SR kg cm m 2 –40 – 1 8 73 0.962
+474 Sweden ln(SR) kg cm m 0–45 0– 50 8 2 96 0.958
+475 Belgium ST kg cm – – – 75 13 – –
+476 Czech ST kg cm m 2 –6 –5 17 7 9 –
+477 Czech ST kg cm m 2 –16 4–11 17 7 50 –
+478 Czech ST kg cm – 2 –6 –5 17 8 9 0.95
+479 Czech ST kg cm – 2 –6 –5 17 8 9 0.92
+480 Czech ST kg cm – 2 –6 –5 17 8 9 0.95
+481 Czech ST kg cm m 2 –6 –5 17 8 9 0.77
+482 Czech ST kg cm m 2 –6 –5 17 8 9 0.61
+483 Czech ST kg cm m 2 –6 –5 17 8 9 0.61
+484 Czech ST kg cm – 2 –16 4–11 17 8 50 0.93
+485 Czech ST kg cm – 2 –16 4–11 17 8 50 0.84
+486 Czech ST kg cm – 2 –16 4–11 17 8 50 0.98
+487 Czech ST kg cm m 2 –16 4–11 17 8 50 0.58
+488 Czech ST kg cm m 2 –16 4–11 17 8 50 0.86
+489 Czech ST kg cm m 2 –16 4–11 17 8 50 0.85
+490 Sweden ln(ST) kg cm – 0–45 0– 50 8 488 0.978
+491 Sweden ln(ST) kg cm m 0–45 0– 50 8 488 0.99
+492 Sweden ST kg cm m 2 –40 – 1 8 73 0.996
+493 UK log(ST) g cm – – – 48 8 10 0.995
+494 UK log(ST) g cm cm – – 63 8 – –
+495 UK log(ST) g cm – – – 63 8 – –
+496 UK log(ST) g cm cm – – 63 8 – –
+497 UK log(ST) g cm – – – 63 8 – –
+498 Finland log(SU) kg cm – 7–21.6 7.9–14.8 56 8 – 0.85
+499 Sweden ln(SU) kg cm – 0–45 0– 50 8 306 0.945
+500 Finland log(SW) kg cm m 5.6–23.6 8–18.2 56 8 – 0.994
+501 Finland log(SW) kg cm m 2 .4–9.7 3–7.8 56 8 – 0.992
+502 Finland log(SW) kg cm m 7–21.6 7.9–14.8 56 8 – 0.991
+503 Finland ln(SW) kg cm m 121– – 40 8 – 0.992
+504 Finland SW kg cm – – – 55 8 2 8 18 –
+505 Finland SW kg cm – – – 55 8 2 9 30 –
+506 Norway SW g cm – 7–15 – 6 7 16 0.992
+507 Norway SW g cm – 2 –7 – 6 7 16 –
+508 Norway SW g cm – 7–20 – 6 7 30 16 0.991
+509 Norway SW g cm – 2 –7 – 6 7 30 16 –
+510 Sweden ln(SW) kg cm – 0–45 0– 50 8 461 0.966
+511 Sweden ln(SW) kg cm m 0–45 0– 50 8 461 0.986
+512 Sweden ln(SW) g cm dm 1.1–10 1.7–8.8 19 8 84 0.98
+Pinus taeda
+513 – log(RT) kg cm – – – 68 8 7 0.863
+Populus tremula (European aspen, Asp)
+514 Germany AB kg cm – 13.2–33 15.9–24.7 66 11 16 0.941
+515 Sweden AB kg mm – 1.9–9.2 3.6–15.8 36 4 – 0.958
+516 Sweden BR kg mm – 1.9–9.2 3.6–15.8 36 4 – 0.959
+517 Germany CR kg cm – 13.2–33 15.9–24.7 66 11 16 0.925
+518 Sweden FL kg mm – 1.9–9.2 3.6–15.8 36 4 – 0.944
+519 Germany ST kg cm – 13.2–33 15.9–24.7 66 11 16 0.909
+520 Sweden ST kg mm – 1.9–9.2 3.6–15.8 36 4 – 0.95
+Populus trichocarpa (Black cottonwood)
+521 Iceland AB kg cm m 4.6–34 4.6–20.7 71 8 22 0.98
+522 Iceland CR kg cm m 4.6–34 4.6–20.7 71 8 0.884
+523 Iceland ST kg cm m 4.6–34 4.6–20.7 71 8 22 0.98
+Pseudotsuga menziesii (Douglas–fir)
+524 Italy ln(AB) kg cm – 8.7–27 – 52 14 36 69 0.94
+525 Netherlands AB kg cm – 3–38 6.7–25.9 4 14 2 3 0.995
+526 Netherlands AB kg cm – 5– – 30 9 – –
+527 Netherlands ln(ABW) kg cm – 5– – 30 9 – –
+528 Netherlands BR kg cm m 3–38 6.7–25.9 4 14 2 3 0.944
+529 Netherlands CR kg cm m 3–38 6.7–25.9 4 14 3 0.945
+530 UK CR kg cm m – – 9 6 – –
+531 Netherlands FL kg cm m 3–38 6.7–25.9 4 14 2 3 0.941
+532 – log(RT) kg cm – – – 68 8 18 0.908
+533 – log(RT) kg cm – – – 68 8 33 0.902
+534 – log(RT) kg cm – – – 68 8 14 0.907
+535 – log(RT) kg cm – – – 68 8 3 0.966
+536 – log(RT) kg cm m – – 68 8 3 0.947
+537 UK RT t cm – – – 9 6 – –
+538 Netherlands ST kg cm m 3–38 6.7–25.9 4 14 2 3 0.998
+Pseudotsuga spp.
+539 Netherlands log(RT) kg cm – 5–27 – 2 21 8 2 1 0.96
+Quercus conferta (Hungarian oak, Platifilos dris)
+540 Greece ln(ABW) kg cm – 2 –19 .2–14.7 51 14 7 0.98
+541 Greece ln(ABW) kg cm cm 2 –19 .2–14.7 51 14 7 0.98
+542 Greece ln(BR) kg cm – 2 –19 .2–14.7 51 14 37 7 0.82
+543 Greece BR kg cm – 2 –19 .2–14.7 51 14 38 7 0.65
+544 Greece ln(BR) kg cm – 2 –19 .2–14.7 51 14 39 7 0.73
+545 Greece ln(BR) kg cm – 2 –19 .2–14.7 51 14 40 7 0.89
+546 Greece ln(BR) kg cm cm 2 –19 .2–14.7 51 14 37 7 0.79
+547 Greece BR kg cm cm 2 –19 .2–14.7 51 14 38 7 0.5
+548 Greece ln(BR) kg cm cm 2 –19 .2–14.7 51 14 39 7 0.68
+549 Greece ln(BR) kg cm cm 2 –19 .2–14.7 51 14 40 7 0.86
+550 Greece ln(SW) kg cm – 2 –19 .2–14.7 51 14 41 7 0.96
+551 Greece ln(SW) kg cm – 2 –19 .2–14.7 51 14 4 7 0.89
+552 Greece ln(SW) kg cm – 2 –19 .2–14.7 51 14 43 7 0.97
+553 Greece ln(SW) kg cm cm 2 –19 .2–14.7 51 14 41 7 0.98
+554 Greece ln(SW) kg cm cm 2 –19 .2–14.7 51 14 4 7 0.89
+555 Greece ln(SW) kg cm cm 2 –19 .2–14.7 51 14 43 7 0.98
+Quercus ilex (Holm oak)
+556 Italy AB kg cm – 2 0–90 – 73 14 – –
+557 Italy AB kg cm – 5–20 – 47 14 12 –
+558 Italy AB kg cm m 4.5–26.1 6–16 7 8 94 0.952
+559 Spain log(AB) kg cm – 5.3–24.4 4.4–12.8 12 8 69 0.908
+560 Spain log(AB) kg cm – 5.3–24.4 4.4–12.8 12 8 33 0.91
+561 Spain log(AB) kg cm – 5.3–24.4 4.4–12.8 12 8 30 0.927
+562 Spain log(AB) kg cm – 5.3–24.4 4.4–12.8 12 8 41 0.939
+563 Spain log(AB) kg cm – 5.3–24.4 4.4–12.8 12 8 2 8 0.867
+564 Spain log(AB) kg cm m 5.3–24.4 4.4–12.8 12 8 63 0.942
+565 Spain AB kg cm – – – 2 25 14 15 –
+566 Italy ABW kg cm m 4.5–26.1 6–16 7 8 3 94 0.952
+567 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 44 69 0.803
+568 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 44 33 0.784
+569 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 44 30 0.697
+570 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 44 41 0.84
+571 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 44 2 8 0.775
+572 Spain log(BR) kg cm m 5.3–24.4 4.4–12.8 12 8 44 63 0.807
+573 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 45 56 0.781
+574 Spain log(BR) kg cm – 5.3–24.4 4.4–12.8 12 8 46 69 0.443
+575 Italy CR kg cm m 4.5–26.1 6–16 7 8 94 0.952
+576 Spain log(FL) kg cm – 5.3–24.4 4.4–12.8 12 8 69 0.615
+577 Spain log(FL) kg cm – 5.3–24.4 4.4–12.8 12 8 33 0.467
+578 Spain log(FL) kg cm – 5.3–24.4 4.4–12.8 12 8 30 0.65
+579 Spain log(FL) kg cm – 5.3–24.4 4.4–12.8 12 8 41 0.735
+580 Spain log(FL) kg cm – 5.3–24.4 4.4–12.8 12 8 2 8 0.74
+581 Spain log(FL) kg cm m 5.3–24.4 4.4–12.8 12 8 63 0.593
+582 Spain log(RC) kg cm – 7.2–23.1 4.4–12.8 13 8 2 5 31 0.64
+583 Spain log(RC) kg cm – 7.2–23.1 4.4–12.8 13 8 2 5 19 0.7
+584 Spain log(RC) kg cm – 8.8–19.8 5.5–9.0 13 8 2 5 12 0.7
+585 Spain log(RS) kg cm – 7.2–23.1 4.4–12.8 13 8 47 31 0.67
+586 Spain log(RS) kg cm – 7.2–23.1 4.4–12.8 13 8 47 19 0.75
+587 Spain log(RS) kg cm – 8.8–19.8 5.5–9.0 13 8 47 12 0.63
+588 Spain log(RT) kg cm – 7–23 – 2 21 8 32 0.73
+589 Spain log(RT) kg cm – 7.2–23.1 4.4–12.8 13 8 32 0.73
+590 Spain log(RT) kg cm – 7.2–23.1 4.4–12.8 13 8 2 0 0.81
+591 Spain log(RT) kg cm – 8.8–19.8 5.5–9.0 13 8 12 0.71
+592 Spain log(ST) kg cm – 5.3–24.4 4.4–12.8 12 8 2 71 0.918
+593 Spain log(ST) kg cm – 5.3–24.4 4.4–12.8 12 8 2 33 0.929
+594 Spain log(ST) kg cm – 5.3–24.4 4.4–12.8 12 8 2 32 0.958
+595 Spain log(ST) kg cm – 5.3–24.4 4.4–12.8 12 8 2 43 0.941
+596 Spain log(ST) kg cm – 5.3–24.4 4.4–12.8 12 8 2 2 8 0.882
+597 Spain log(ST) kg cm m 5.3–24.4 4.4–12.8 12 8 2 65 0.963
+Quercus petraea
+598 France log(RT) kg cm – 7–17 – 2 21 8 71 0.94
+Quercus pyrenaica (Pyrenean oak)
+599 Portugal ln(SW) kg cm m 2 .5–46 3.3–27 14 8 166 0.99
+Quercus spp. (Oak, Eiche)
+600 Austria ln(AB) kg cm – – – 31 3 33 –
+601 UK ln(ABW) kg cm – 4.5–52 – 10 14 11 2 0 0.99
+602 UK ln(ABW) kg cm – 4.3–35 – 10 14 11 16 0.99
+603 UK ln(ABW) kg cm – 3.8–11 – 10 14 11 15 0.974
+604 UK ln(ABW) kg cm – 5.7–33 – 10 14 11 18 0.995
+605 UK CR t cm – – – 9 6 1 – –
+606 UK CR t cm m – – 9 6 – –
+Tilia cordata (Lime)
+607 UK ln(ABW) kg cm – 3.2–15 – 10 14 11 10 0.984
+
+
