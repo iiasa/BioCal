@@ -8,7 +8,7 @@ Description: This package provides tools for calculating the biomass of trees ba
     on country, species, compartment, diameter, and height. The calculations use
     specific allometric equations tailored for different tree species across various
     biogeographical zones. Use four spaces when indenting paragraphs within the Description.
-License: GPL-3
+License: MIT
 Encoding: UTF-8
 LazyData: true
 Suggests: 
