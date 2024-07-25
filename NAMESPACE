@@ -1,3 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-importFrom(readxl, read_excel)
-
+importFrom(openxlsx, read.xlsx)

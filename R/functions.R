@@ -10,14 +10,14 @@
 #' @export
 calculate_biomass <- function(country, species, compartment, D, H) {
   library(dplyr)
-  library(readxl)
+  library(openxlsx)
   options(warn = -1)
 
   frosster_data_path <- system.file("extdata", "frosster_data.xlsx", package = "BioCal")
   species_eq_path <- system.file("extdata", "species_eq_zianis.txt", package = "BioCal")
   species_path <- system.file("extdata", "species_zianis.txt", package = "BioCal")
 
-  frosster_d<- read_excel(frosster_data_path)
+  frosster_d <- read.xlsx(frosster_data_path)
 
 
   # Function to standardize scientific notation
