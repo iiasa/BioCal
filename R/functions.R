@@ -134,7 +134,7 @@ calculate_biomass <- function(country, species, compartment, D, H) {
       return(print("No valid equation found for the selected criteria."))
     }
   } else {
-    print("No valid equation found for the selected criteria.")
+    #print("No valid equation found for the selected criteria.")
 
     beta0_s <- as.numeric(substr(filter(frosster_d, frosster_d$Species==species,frosster_d$Equation==3,frosster_d$Component=="Stem mass")$`ln(β0)`, 1, 4))
     beta0_r <- as.numeric(substr(filter(frosster_d, frosster_d$Species==species,frosster_d$Equation==3,frosster_d$Component=="Root mass")$`ln(β0)`, 1, 4))
